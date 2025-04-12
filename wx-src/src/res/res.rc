@@ -1,0 +1,7 @@
+aplication ICON "tree.ico"
+
+tree ICON "tree.ico"
+
+#define wxUSE_NO_MANIFEST 0
+
+#include "wx/msw/wx.rc"
