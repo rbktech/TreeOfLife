@@ -1,0 +1,3 @@
+[submodule "tree-of-life-desktop-cxx-wx"]
+	path = tree-of-life-desktop-cxx-wx
+	url = https://github.com/rbktech/tree-of-life-desktop-cxx-wx.git
